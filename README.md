@@ -1,2 +1,9 @@
-# Pixel5aCustomization
-This repo will contain customization experience on my Pixel5a.  I will keep notes, reference, and all the files I've used during the process so if someone asks me how I bricked my phone, I can just send them here instead of having to explain it.    But seriously, if someone else wants assistance, then all the information they need will be here.  XDA Developers is usually the first, last, and best source for this info.   My only frustration with that website is sometimes when I have needed files there months after the info was posted, the links to the files are no longer available.   That is the primary reason for me creating a repository to house this stuff.  Sources for info/files will be listed as appropriate.
+# Pixel 5a Customization
+
+Information and data collected by Jonathan Fierstein
+
+
+
+## Introduction
+
+This repository is meant to be a collection of information on how to properly and successfully customize a Google Pixel 5a.  Some of the scripts provided will be mine, but most of the information and files presented were created by others, who will be properly credited for their work.   The majority, although not all, of the information, will come from XDA Developers because it is usually just not necessary to go anywhere else to get the complete picture of how to customize a particular phone.   I have been doing this successfully with a large number of phones for many years and I have never been led to brickdom by the contributors on XDA.   That's not to say that someone has not made an error once or twice; The information was almost immediately corrected and confirmed by others at XDA.  It was proven to me long ago that there is no better place for someone who wants to root and customize the OS on their new Android phone but does not possess all the requisite knowledge necessary to do so by themselves to go.
