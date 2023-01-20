@@ -1,0 +1,7 @@
+#.gitignore for the Pixel5A Customization Repository
+#############################################
+#This is a backup file from a markdown editor.
+*.backup
+#This is a temoprary save file from Powershell Studio.
+*.TempPoint.*
+
